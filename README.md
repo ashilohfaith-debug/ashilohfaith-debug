@@ -6,7 +6,9 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=22&duration=3500&pause=1000&color=A9B7C6&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B+I'm+%5BShiloh%5D;Turning+data+into+decisions.;Python+%C2%B7+Analytics+%C2%B7+Mathematics.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=700&size=40&duration=3500&pause=1000&color=A9B7C6&center=true&vCenter=true&width=700&lines=%C2%A1Hola%2C+yo+soy+Shiloh!;Hello%2C+I'm+Shiloh!)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=700&size=22&duration=3500&pause=99999999&color=A9B7C6&center=true&vCenter=true&width=700&lines=Learning+by+day+and+debugging+my+own+flaws+by+night.)](https://git.io/typing-svg)
 
 </div>
 
@@ -96,8 +98,8 @@ I'm a student at the intersection of **mathematics**, **data**, and **code** —
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-yourusername-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yourprofile-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-ashilohfaith-debug-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashilohfaith-debug)
+[![LinkedIn](https://www.linkedin.com/in/shiloh-faith-9a2604393/)
 [![Email](https://img.shields.io/badge/Email-youremail@gmail.com-1a1a2e?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:youremail@gmail.com)
 
 </div>
