@@ -10,7 +10,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=700&size=40&duration=3500&pause=1000&color=F6F7F9&center=true&vCenter=true&width=700&lines=%C2%A1Hola%2C+yo+soy+Shiloh!;Hello%2C+I'm+Shiloh!)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=700&size=22&duration=3500&pause=99999999&color=F6F7F9&center=true&vCenter=true&width=700&lines=Building+by+day%2C+debugging+flaws+by+night.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=300&size=20&duration=3500&pause=99999999&color=F6F7F9&center=true&vCenter=true&width=700&lines=Building+by+day%2C+debugging+flaws+by+night.)](https://git.io/typing-svg)
 
 </div>
 
