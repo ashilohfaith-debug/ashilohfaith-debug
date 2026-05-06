@@ -6,6 +6,8 @@
 
 <div align="center">
 
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=700&size=40&duration=3500&pause=1000&color=A9B7C6&center=true&vCenter=true&width=700&lines=%C2%A1Hola%2C+yo+soy+Shiloh!;Hello%2C+I'm+Shiloh!)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=700&size=22&duration=3500&pause=99999999&color=A9B7C6&center=true&vCenter=true&width=700&lines=Learning+by+day+and+debugging+my+own+flaws+by+night.)](https://git.io/typing-svg)
