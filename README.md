@@ -64,7 +64,7 @@ Let's connect:
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ashilohfaith-debug&theme=dark&hide_border=true&background=0d1117&ring=C2678D&fire=C2678D&currStreakLabel=5B9BD5&sideLabels=5B9BD5&dates=6e7681&sideNums=C2678D&currStreakNum=5B9BD5&stroke=0d1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ashilohfaith-debug&theme=dark&hide_border=true&background=0d1117&ring=E0719A&fire=E0719A&currStreakLabel=6BAEE8&sideLabels=6BAEE8&dates=ffffff&sideNums=E0719A&currStreakNum=6BAEE8&stroke=0d1117)](https://git.io/streak-stats)
 
 </div>
 
