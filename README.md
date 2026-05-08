@@ -96,27 +96,11 @@ I'm a student at the intersection of **mathematics**, **data**, and **code** —
 
 <br/>
 
-## `contact`
+## 🐍 GitHub Contribution Snake
 
 <div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-ashilohfaith-debug-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashilohfaith-debug)
-[![LinkedIn](https://www.linkedin.com/in/shiloh-faith-9a2604393/)
-[![Email](https://img.shields.io/badge/Email-youremail@gmail.com-1a1a2e?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:youremail@gmail.com)
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashilohfaith-debug/ashilohfaith-debug/main/dist/github-contribution-grid-snake-dark.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ashilohfaith-debug/ashilohfaith-debug/main/dist/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </div>
-
-<br/>
-
----
-
-<div align="center">
-
-*"The goal is to turn data into information, and information into insight."* &nbsp;—&nbsp; Carly Fiorina
-
-<br/>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=A9B7C6&label=profile+views)
-
-</div>
-
