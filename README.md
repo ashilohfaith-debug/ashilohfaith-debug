@@ -76,7 +76,7 @@ Let's connect:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashilohfaith-debug&bg_color=120820&color=9d6ec7&line=7b4fa6&point=c2185b&area=true&area_color=6b2d8b&hide_border=true&custom_title=%20" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashilohfaith-debug&bg_color=120820&color=9d6ec7&line=7b4fa6&point=c2185b&area=true&area_color=7d2150&hide_border=true&custom_title=%20" />
 
 </div>
 
