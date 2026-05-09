@@ -94,4 +94,8 @@ Let's connect:
   </picture>
 </div>
 
+<br/>
+<br/>
+
+*Turning ideas 💡 into repositories, one commit at a time*
 <img src="https://raw.githubusercontent.com/ashilohfaith-debug/ashilohfaith-debug/main/wave.svg" width="100%" />
