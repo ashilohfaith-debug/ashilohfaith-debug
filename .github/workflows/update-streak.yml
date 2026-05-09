@@ -1,0 +1,24 @@
+name: Update Streak Stats Daily
+
+on:
+  schedule:
+    - cron: "0 1 * * *"   # Runs at 1:00 AM UTC every day
+  workflow_dispatch:        # Manual trigger from Actions tab
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Touch README to bust GitHub image cache
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          # Append and remove a hidden comment to force a new commit
+          echo "" >> README.md
+          sed -i '/^$/d' README.md
+          git add README.md
+          git diff --cached --quiet || git commit -m "chore: refresh stats cache [$(date +'%Y-%m-%d')]"
+          git push
