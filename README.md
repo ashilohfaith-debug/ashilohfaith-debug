@@ -12,7 +12,6 @@
 </div>
 
 <br/>
-
 <div>
 
 ## Who I am
