@@ -64,7 +64,7 @@ Let's connect:
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ashilohfaith-debug&theme=dark&hide_border=true&background=0d1117&ring=E0719A&fire=E0719A&currStreakLabel=6BAEE8&sideLabels=6BAEE8&dates=ffffff&sideNums=E0719A&currStreakNum=6BAEE8&stroke=0d1117)](https://github.com/ashilohfaith-debug)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ashilohfaith-debug&theme=dark&hide_border=true&background=120820&ring=7b4fa6&fire=c2185b&currStreakLabel=9d6ec7&sideLabels=9d6ec7&dates=ffffff&sideNums=c2185b&currStreakNum=7b4fa6&stroke=120820)](https://github.com/ashilohfaith-debug)
 
 </div>
 
@@ -76,7 +76,7 @@ Let's connect:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashilohfaith-debug&bg_color=0d1117&color=4A90D9&line=4A90D9&point=00ffff&area=true&area_color=00ff88&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashilohfaith-debug&bg_color=120820&color=9d6ec7&line=7b4fa6&point=c2185b&area=true&area_color=6b2d8b&hide_border=true" />
 
 </div>
 
