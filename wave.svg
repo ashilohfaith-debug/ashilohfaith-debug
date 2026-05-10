@@ -17,6 +17,7 @@
   </linearGradient>
 </defs>
 
+  <!-- Wave layer 3 (back) -->
   <path fill="url(#wave3grad)" fill-opacity="0.4"
     d="M0,80 C150,40 300,100 450,70 C600,40 750,90 900,60 C1050,30 1150,75 1200,65 L1200,120 L0,120 Z">
     <animate attributeName="d" dur="7s" repeatCount="indefinite"
@@ -27,6 +28,7 @@
       " calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" />
   </path>
 
+  <!-- Wave layer 2 (mid) -->
   <path fill="url(#wave2grad)" fill-opacity="0.55"
     d="M0,90 C200,60 350,110 500,80 C650,50 800,100 950,70 C1100,45 1160,85 1200,75 L1200,120 L0,120 Z">
     <animate attributeName="d" dur="5.5s" repeatCount="indefinite"
@@ -37,6 +39,7 @@
       " calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" />
   </path>
 
+  <!-- Wave layer 1 (front) -->
   <path fill="url(#wave1grad)" fill-opacity="0.75"
     d="M0,95 C100,75 250,115 400,90 C550,65 700,105 850,80 C1000,55 1120,95 1200,85 L1200,120 L0,120 Z">
     <animate attributeName="d" dur="4s" repeatCount="indefinite"
@@ -47,15 +50,22 @@
       " calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" />
   </path>
 
+  <!-- Boat -->
   <g id="boat">
-    <path d="M-32,0 Q-36,14 0,18 Q36,14 32,0 Z" fill="#f5e6c8" stroke="#c8a96e" stroke-width="1.2"/>
-    <rect x="-13" y="-16" width="26" height="16" rx="3" fill="#e8d5b0" stroke="#c8a96e" stroke-width="1"/>
-    <line x1="3" y1="-16" x2="3" y2="-54" stroke="#c8a96e" stroke-width="2" stroke-linecap="round"/>
-    <path d="M3,-52 L30,-32 L3,-14 Z" fill="white" fill-opacity="0.92" stroke="#ddd" stroke-width="0.8"/>
-    <path d="M3,-52 L14,-47 L3,-42 Z" fill="#ff6b9d"/>
+    <!-- hull: ivory white -->
+    <path d="M-18,0 Q-20,8 0,10 Q20,8 18,0 Z" fill="#fffff0" stroke="#d4c9a0" stroke-width="0.8"/>
+    <!-- cabin: ivory white -->
+    <rect x="-7" y="-8" width="14" height="8" rx="2" fill="#fffff0" stroke="#d4c9a0" stroke-width="0.6"/>
+    <!-- mast -->
+    <line x1="2" y1="-8" x2="2" y2="-28" stroke="#c8a96e" stroke-width="1.2" stroke-linecap="round"/>
+    <!-- sail: ivory white -->
+    <path d="M2,-27 L16,-16 L2,-8 Z" fill="#fffff0" fill-opacity="0.95" stroke="#d4c9a0" stroke-width="0.5"/>
+    <!-- flag: orange top half, dull pink bottom half -->
+    <path d="M2,-27 L8,-25 L2,-23 Z" fill="#e8720c"/>
+    <path d="M2,-23 L8,-21 L2,-19 Z" fill="#c47a8a"/>
 
     <animateTransform attributeName="transform" type="translate"
-      values="80,78; 300,70; 600,84; 900,68; 1120,78; 900,68; 600,84; 300,70; 80,78"
+      values="80,80; 300,72; 600,86; 900,70; 1120,80; 900,70; 600,86; 300,72; 80,80"
       keyTimes="0; 0.125; 0.25; 0.375; 0.5; 0.625; 0.75; 0.875; 1"
       dur="20s" repeatCount="indefinite" calcMode="spline"
       keySplines="0.4 0 0.6 1; 0.4 0 0.6 1; 0.4 0 0.6 1; 0.4 0 0.6 1; 0.4 0 0.6 1; 0.4 0 0.6 1; 0.4 0 0.6 1; 0.4 0 0.6 1"/>
