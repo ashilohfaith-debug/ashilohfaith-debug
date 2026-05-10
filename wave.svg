@@ -52,17 +52,16 @@
 
   <!-- Boat -->
   <g id="boat">
-    <!-- hull: ivory white -->
-    <path d="M-18,0 Q-20,8 0,10 Q20,8 18,0 Z" fill="#fffff0" stroke="#d4c9a0" stroke-width="0.8"/>
-    <!-- cabin: ivory white -->
-    <rect x="-7" y="-8" width="14" height="8" rx="2" fill="#fffff0" stroke="#d4c9a0" stroke-width="0.6"/>
+    <!-- hull: longer and wider -->
+    <path d="M-28,0 Q-32,10 0,13 Q32,10 28,0 Z" fill="#fffff0" stroke="#d4c9a0" stroke-width="0.8"/>
+    <!-- cabin: wider to match -->
+    <rect x="-12" y="-10" width="22" height="10" rx="2" fill="#fffff0" stroke="#d4c9a0" stroke-width="0.6"/>
     <!-- mast -->
-    <line x1="2" y1="-8" x2="2" y2="-28" stroke="#c8a96e" stroke-width="1.2" stroke-linecap="round"/>
-    <!-- sail: ivory white -->
-    <path d="M2,-27 L16,-16 L2,-8 Z" fill="#fffff0" fill-opacity="0.95" stroke="#d4c9a0" stroke-width="0.5"/>
-    <!-- flag: orange top half, dull pink bottom half -->
-    <path d="M2,-27 L8,-25 L2,-23 Z" fill="#e8720c"/>
-    <path d="M2,-23 L8,-21 L2,-19 Z" fill="#c47a8a"/>
+    <line x1="3" y1="-10" x2="3" y2="-32" stroke="#c8a96e" stroke-width="1.2" stroke-linecap="round"/>
+    <!-- sail: taller to match longer mast -->
+    <path d="M3,-31 L20,-19 L3,-10 Z" fill="#fffff0" fill-opacity="0.95" stroke="#d4c9a0" stroke-width="0.5"/>
+    <!-- single longer flag: dull pink -->
+    <path d="M3,-32 L14,-28 L3,-24 Z" fill="#c47a8a"/>
 
     <animateTransform attributeName="transform" type="translate"
       values="80,80; 300,72; 600,86; 900,70; 1120,80; 900,70; 600,86; 300,72; 80,80"
