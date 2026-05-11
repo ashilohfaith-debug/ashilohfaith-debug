@@ -53,7 +53,7 @@
   <!-- Boat -->
   <g id="boat">
     <!-- hull: longer and wider -->
-    <path d="M-28,0 Q-32,10 0,13 Q32,10 28,0 Z" fill="#fffff0" stroke="#d4c9a0" stroke-width="0.8"/>
+    <path d="M-36,0 Q-32,10 0,13 Q32,10 36,0 Z" fill="#fffff0" stroke="#d4c9a0" stroke-width="0.8"/>
     <!-- cabin: wider to match -->
     <rect x="-12" y="-10" width="22" height="10" rx="2" fill="#fffff0" stroke="#d4c9a0" stroke-width="0.6"/>
     <!-- mast -->
