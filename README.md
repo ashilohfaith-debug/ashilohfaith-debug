@@ -5,9 +5,9 @@
 <br/>
 <br/>
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=700&size=40&duration=3500&pause=1000&color=F6F7F9&center=true&vCenter=true&width=700&lines=%C2%A1Hola%2C+yo+soy+Shiloh!;Hello%2C+I'm+Shiloh!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=700&size=40&duration=3500&pause=1000&color=F6F7F9&center=true&vCenter=true&width=700&lines=%C2%A1Hola%2C+yo+soy+Shiloh!;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=300&size=20&duration=3500&pause=99999999&color=F6F7F9&center=true&vCenter=true&width=700&lines=Building+by+day%2C+debugging+flaws+by+night.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=300&size=20&duration=3500&pause=99999999&color=F6F7F9&center=true&vCenter=true&width=700&lines=Building+by+day%2C+debugging+by+night+)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,7 +17,7 @@
 
 ## Who I am
 
-I’m passionate about building software, understanding how systems work — and then figuring out how to break them (securely 😂). I’m deeply interested in emerging technologies such as **AI**, **Cloud**, and **Quantum Computing** as well.
+I'm passionate about building software, understanding how systems work — and then figuring out how to break them (securely 😂). I'm deeply interested in emerging technologies such as **AI**, **Cybersecurity**, and **Web Development**.
 
 Let's connect:
 
@@ -86,14 +86,13 @@ Let's connect:
 
 ## Contribution Snake
 
-<!-- Light mode -->
-<img src="https://raw.githubusercontent.com/ashilohfaith-debug/ashilohfaith-debug/dist/github-contribution-grid-snake.svg" />
-
-<!-- Auto light/dark switching -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="...snake-dark.svg" />
-  <img src="...snake.svg" />
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashilohfaith-debug/ashilohfaith-debug/main/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashilohfaith-debug/ashilohfaith-debug/main/dist/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ashilohfaith-debug/ashilohfaith-debug/main/dist/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</div>
 
 <br/>
 <br/>
