@@ -86,13 +86,14 @@ Let's connect:
 
 ## Contribution Snake
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashilohfaith-debug/ashilohfaith-debug/main/dist/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashilohfaith-debug/ashilohfaith-debug/main/dist/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ashilohfaith-debug/ashilohfaith-debug/main/dist/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
-</div>
+<!-- Light mode -->
+<img src="https://raw.githubusercontent.com/ashilohfaith-debug/ashilohfaith-debug/dist/github-contribution-grid-snake.svg" />
+
+<!-- Auto light/dark switching -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="...snake-dark.svg" />
+  <img src="...snake.svg" />
+</picture>
 
 <br/>
 <br/>
