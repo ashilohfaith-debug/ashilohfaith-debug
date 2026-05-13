@@ -20,6 +20,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate Snake — Light Theme
         uses: Platane/snk@v3
@@ -54,8 +55,10 @@ jobs:
             echo "No changes — skipping commit."
           else
             git commit -m "chore: regenerate snake contribution animation [skip ci]"
-            git push
+            git push origin main
           fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Upload Artifacts
         uses: actions/upload-artifact@v4
