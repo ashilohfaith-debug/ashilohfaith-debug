@@ -2,7 +2,6 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    # Run every 6 hours
     - cron: "0 */6 * * *"
   workflow_dispatch:
   push:
@@ -15,48 +14,48 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-    
+
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - name: Generate Snake Animation
+      - name: Generate Snake — Light Theme
         uses: Platane/snk@v3
         with:
           github_user_name: ashilohfaith-debug
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          outputs: >-
+            dist/github-contribution-grid-snake.svg?color_snake=%23e8836a&color_dots=%23ede9f5,%23c4b5e8,%23a48cd6,%237c5cbf,%235b3fa8
+
+      - name: Generate Snake — Dark Theme
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ashilohfaith-debug
+          outputs: >-
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%23e8836a&color_dots=%231e1a2e,%233b2f6b,%235b3fa8,%237c5cbf,%23a48cd6
 
       - name: Verify Generated Files
         run: |
-          echo "✓ Verifying snake animation files..."
+          echo "Verifying snake animation files..."
           ls -lah dist/
-          test -f dist/github-contribution-grid-snake.svg && echo "✓ Light theme SVG generated" || exit 1
-          test -f dist/github-contribution-grid-snake-dark.svg && echo "✓ Dark theme SVG generated" || exit 1
+          test -f dist/github-contribution-grid-snake.svg      && echo "✓ Light SVG OK" || exit 1
+          test -f dist/github-contribution-grid-snake-dark.svg && echo "✓ Dark SVG OK"  || exit 1
 
       - name: Configure Git
         run: |
-          git config user.name "github-actions[bot]"
+          git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: Check for Changes
-        id: verify-changed-files
+      - name: Commit & Push (if changed)
         run: |
           git add dist/
           if git diff --cached --quiet; then
-            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "No changes — skipping commit."
           else
-            echo "changed=true" >> $GITHUB_OUTPUT
+            git commit -m "chore: regenerate snake contribution animation [skip ci]"
+            git push
           fi
-
-      - name: Commit and Push
-        if: steps.verify-changed-files.outputs.changed == 'true'
-        run: |
-          git commit -m "chore: regenerate snake contribution animation [skip ci]"
-          git push
 
       - name: Upload Artifacts
         uses: actions/upload-artifact@v4
