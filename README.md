@@ -97,5 +97,5 @@ Let's connect:
 <br/>
 <br/>
 
-*Turning ideas 💡 into repositories, one commit at a time*
+*A ship in a harbor is safe, but that is not what ships are built for.*
 <img src="https://raw.githubusercontent.com/ashilohfaith-debug/ashilohfaith-debug/main/wave.svg" width="100%" />
