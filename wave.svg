@@ -56,48 +56,48 @@
       <feGaussianBlur stdDeviation="3" />
     </filter>
 
-    <!-- Graceful Wave Paths & Crests -->
+    <!-- Slightly Rougher Wave Paths -->
     <path id="wave1-path" d="
       M 0 110 
-      C 100 90, 300 130, 400 110
-      C 500 90, 700 130, 800 110
-      C 900 90, 1100 130, 1200 110
-      C 1300 90, 1500 130, 1600 110
-      C 1700 90, 1900 130, 2000 110
-      C 2100 90, 2300 130, 2400 110
+      C 100 80, 300 140, 400 110
+      C 500 80, 700 140, 800 110
+      C 900 80, 1100 140, 1200 110
+      C 1300 80, 1500 140, 1600 110
+      C 1700 80, 1900 140, 2000 110
+      C 2100 80, 2300 140, 2400 110
       V 300 H 0 Z" />
     <path id="wave1-crest" d="
       M 0 110 
-      C 100 90, 300 130, 400 110
-      C 500 90, 700 130, 800 110
-      C 900 90, 1100 130, 1200 110
-      C 1300 90, 1500 130, 1600 110
-      C 1700 90, 1900 130, 2000 110
-      C 2100 90, 2300 130, 2400 110" />
+      C 100 80, 300 140, 400 110
+      C 500 80, 700 140, 800 110
+      C 900 80, 1100 140, 1200 110
+      C 1300 80, 1500 140, 1600 110
+      C 1700 80, 1900 140, 2000 110
+      C 2100 80, 2300 140, 2400 110" />
 
     <path id="wave2-path" d="
-      M 0 135 
-      C 150 120, 450 150, 600 135
-      C 750 120, 1050 150, 1200 135
-      C 1350 120, 1650 150, 1800 135
-      C 1950 120, 2250 150, 2400 135
+      M 0 130 
+      C 150 110, 450 148, 600 130
+      C 750 110, 1050 148, 1200 130
+      C 1350 110, 1650 148, 1800 130
+      C 1950 110, 2250 148, 2400 130
       V 300 H 0 Z" />
     <path id="wave2-crest" d="
-      M 0 135 
-      C 150 120, 450 150, 600 135
-      C 750 120, 1050 150, 1200 135
-      C 1350 120, 1650 150, 1800 135
-      C 1950 120, 2250 150, 2400 135" />
+      M 0 130 
+      C 150 110, 450 148, 600 130
+      C 750 110, 1050 148, 1200 130
+      C 1350 110, 1650 148, 1800 130
+      C 1950 110, 2250 148, 2400 130" />
 
     <path id="wave3-path" d="
       M 0 160 
-      C 300 140, 900 180, 1200 160
-      C 1500 140, 2100 180, 2400 160
+      C 300 125, 900 195, 1200 160
+      C 1500 125, 2100 195, 2400 160
       V 300 H 0 Z" />
     <path id="wave3-crest" d="
       M 0 160 
-      C 300 140, 900 180, 1200 160
-      C 1500 140, 2100 180, 2400 160" />
+      C 300 125, 900 195, 1200 160
+      C 1500 125, 2100 195, 2400 160" />
   </defs>
 
   <style>
@@ -117,7 +117,7 @@
     }
 
     .boat-sail {
-      animation: sail 20s linear infinite;
+      animation: sail 28s linear infinite;
     }
     .boat-bob {
       animation: bob 3.5s ease-in-out infinite;
@@ -127,10 +127,10 @@
       0% { transform: translateX(-200px) translateY(125px); }
       100% { transform: translateX(1400px) translateY(125px); }
     }
-    /* Gentle, graceful bobbing */
+    /* Adjusted bobbing to match the slightly rougher waves */
     @keyframes bob {
-      0%, 100% { transform: translateY(-3px) rotate(-3deg); }
-      50% { transform: translateY(6px) rotate(4deg); }
+      0%, 100% { transform: translateY(-5px) rotate(-5deg); }
+      50% { transform: translateY(8px) rotate(6deg); }
     }
 
     .rain-drop {
@@ -170,7 +170,7 @@
     <use href="#wave1-crest" fill="none" stroke="#e074a3" stroke-width="2" opacity="0.5"/>
   </g>
 
-  <!-- Connected & Realistic Galleon (Scaled down to 65% size) -->
+  <!-- Connected & Realistic Galleon -->
   <g class="boat-sail">
     <g class="boat-bob">
       <g transform="scale(0.65)">
