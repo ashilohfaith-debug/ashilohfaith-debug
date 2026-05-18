@@ -95,7 +95,3 @@ Let's connect:
 </div>
 
 <br/>
-<br/>
-
-*A ship in a harbor is safe, but that is not what ships are built for.*
-<img src="https://raw.githubusercontent.com/ashilohfaith-debug/ashilohfaith-debug/main/wave.svg" width="100%" />
