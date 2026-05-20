@@ -21,17 +21,19 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
 
-      - name: Touch README to bust GitHub image cache
+      - name: Bust streak image cache
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git pull --rebase origin main
           DATE=$(date +'%Y-%m-%d')
-          if grep -q "<!-- cache-bust:" README.md; then
-            sed -i "s/<!-- cache-bust:.*-->/<!-- cache-bust: $DATE -->/" README.md
-          else
-            echo "<!-- cache-bust: $DATE -->" >> README.md
-          fi
+
+          # Update cachebust date inside the image URL
+          sed -i "s/cachebust=[0-9]\{4\}-[0-9]\{2\}-[0-9]\{2\}/cachebust=$DATE/" README.md
+
+          # Clean up the old comment if it exists
+          sed -i "/<!-- cache-bust:/d" README.md
+
           git add README.md
           if git diff --cached --quiet; then
             echo "Nothing to commit, skipping push."
