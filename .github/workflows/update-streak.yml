@@ -1,6 +1,8 @@
 name: Update Streak Stats Daily
-
 on:
+  push:
+    branches:
+      - main
   schedule:
     - cron: "0 1 * * *"
   workflow_dispatch:
@@ -11,30 +13,29 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
+    if: github.actor != 'github-actions[bot]'
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          fetch-depth: 0        # Full history — avoids shallow clone push errors
+          fetch-depth: 0
 
       - name: Touch README to bust GitHub image cache
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-
+          git pull --rebase origin main
           DATE=$(date +'%Y-%m-%d')
-
-          # Remove any old cache-bust line, then append a fresh one
-          sed -i "/<!-- cache-bust:/d" README.md
-          echo "<!-- cache-bust: $DATE -->" >> README.md
-
+          if grep -q "<!-- cache-bust:" README.md; then
+            sed -i "s/<!-- cache-bust:.*-->/<!-- cache-bust: $DATE -->/" README.md
+          else
+            echo "<!-- cache-bust: $DATE -->" >> README.md
+          fi
           git add README.md
-
           if git diff --cached --quiet; then
             echo "Nothing to commit, skipping push."
           else
-            git pull --rebase origin main   # Sync before push to avoid ref conflicts
             git commit -m "chore: refresh stats cache [$DATE]"
             git push origin main
           fi
