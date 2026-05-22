@@ -4,10 +4,16 @@
 
 <br/>
 <br/>
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=700&size=40&duration=3500&pause=1000&color=F6F7F9&center=true&vCenter=true&width=700&lines=%C2%A1Hola%2C+yo+soy+Shiloh!;Hello%2C+I+am+Shiloh!)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=300&size=20&duration=3500&pause=99999999&color=F6F7F9&center=true&vCenter=true&width=700&lines=Building+by+day%2C+debugging+by+night.)](https://git.io/typing-svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=700&size=40&duration=3500&pause=1000&color=F6F7F9&center=true&vCenter=true&width=700&lines=%C2%A1Hola%2C+yo+soy+Shiloh!;Hello%2C+I+am+Shiloh!">
+  <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=700&size=40&duration=3500&pause=1000&color=1A1A1A&center=true&vCenter=true&width=700&lines=%C2%A1Hola%2C+yo+soy+Shiloh!;Hello%2C+I+am+Shiloh!" alt="Hola, yo soy Shiloh!">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=300&size=20&duration=3500&pause=99999999&color=F6F7F9&center=true&vCenter=true&width=700&lines=Building+by+day%2C+debugging+by+night.">
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=300&size=20&duration=3500&pause=99999999&color=1A1A1A&center=true&vCenter=true&width=700&lines=Building+by+day%2C+debugging+by+night." alt="Building by day, debugging by night.">
+</picture>
 
 </div>
 
