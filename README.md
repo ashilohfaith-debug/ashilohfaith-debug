@@ -27,10 +27,9 @@ I'm passionate about building software, understanding how systems work — and t
 
 Let's connect:
 
-![Email](https://img.shields.io/badge/EMAIL-1a1a2e?style=for-the-badge&logo=gmail&logoColor=white)
 ![Email Address](https://img.shields.io/badge/ashilohfaith@gmail.com-EA4335?style=for-the-badge&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LINKEDIN-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=white)
-[![Connect](https://img.shields.io/badge/CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiloh-faith-9a2604393/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiloh-faith-9a2604393/)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-ffcc00?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/ShilohFaith)
 
 </div>
 
