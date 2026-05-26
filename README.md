@@ -25,6 +25,7 @@
 
 I'm passionate about building software, understanding how systems work — and then figuring out how to break them (securely 😂). I'm deeply interested in emerging technologies such as **AI**, **Cloud** and **Quantum Computing**.
 
+
 Let's connect:
 
 ![Email Address](https://img.shields.io/badge/ashilohfaith@gmail.com-EA4335?style=for-the-badge&logoColor=white)
