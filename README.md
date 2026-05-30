@@ -69,6 +69,25 @@ Let's connect:
 
 <br/>
 
+## My Goals for 2026
+  
+- [ ] Git & GitHub for professional development
+- [ ] Linux for development and security
+- [ ] Data Structures & Algorithms through LeetCode
+- [ ] SQL for databases
+- [ ] REST APIs for application communication
+- [ ] Spring Boot for backend development
+- [ ] UI & UX for designing user-friendly applications
+- [ ] AWS Fundamentals for cloud computing
+- [ ] NumPy & Pandas for AI and data processing
+- [ ] Machine Learning & LLMs for building intelligent applications
+- [ ] TryHackMe for cybersecurity and bug bounty practice
+- [ ] AI Security
+
+*This is just a glimpse of the list of things I want to learn, practice and build.*
+
+<br/>
+
 ##  Stats
 
 <div align="center">
