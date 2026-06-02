@@ -1,6 +1,7 @@
 {
   "githubName": "ashilohfaith-debug",
   "radarChart": false,
+  "calendarChart": true,
   "dateRange": false,
   "langColors": {
     "Java": "#f89820",
