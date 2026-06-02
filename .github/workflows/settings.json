@@ -1,0 +1,17 @@
+{
+  "githubName": "ashilohfaith",
+  "radarChart": false,
+  "dateRange": false,
+  "langColors": {
+    "Java": "#f89820",
+    "Python": "#3572A5",
+    "HTML": "#e34c26",
+    "Other": "#6e6e6e"
+  },
+  "labelLang": {
+    "other": "Other"
+  },
+  "contribLabelColor": "#58a6ff",
+  "starLabelColor": "#58a6ff",
+  "forkLabelColor": "#58a6ff"
+}
