@@ -1,7 +1,7 @@
 {
   "githubName": "ashilohfaith-debug",
+  "type": "night-rainbow",
   "radarChart": false,
-  "calendarChart": true,
   "dateRange": false,
   "langColors": {
     "Java": "#f89820",
@@ -11,8 +11,5 @@
   },
   "labelLang": {
     "other": "Other"
-  },
-  "contribLabelColor": "#58a6ff",
-  "starLabelColor": "#58a6ff",
-  "forkLabelColor": "#58a6ff"
+  }
 }
