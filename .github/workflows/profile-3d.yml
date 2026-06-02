@@ -2,15 +2,17 @@ name: GitHub-Profile-3D-Contrib
 
 on:
   schedule:
-    - cron: "0 18 * * *"   # Runs daily at midnight IST
-  workflow_dispatch:         # Lets you trigger it manually too
+    - cron: "0 18 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: Generate 3D Contribution Graph
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
