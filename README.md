@@ -37,7 +37,7 @@ Let's connect:
 
 <br/>
 
-## <img width="35" height="35" alt="18371877" src="https://github.com/user-attachments/assets/b49fc8a9-3fff-4ef7-abe6-69f736fdbc4a" /> Tech Arsenal
+## <img width="30" height="30" alt="18371877" src="https://github.com/user-attachments/assets/b49fc8a9-3fff-4ef7-abe6-69f736fdbc4a" /> Tech Arsenal
 
 <div align="center">
 
@@ -69,7 +69,7 @@ Let's connect:
 
 <br/>
 
-## Featured Projects
+## <img width="25" height="25" alt="17780457" src="https://github.com/user-attachments/assets/72408d07-c373-49d0-866a-0b47173b6f9c" /> Featured Projects
 
 ---
 
