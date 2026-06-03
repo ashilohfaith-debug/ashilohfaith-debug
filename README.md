@@ -69,7 +69,7 @@ Let's connect:
 
 <br/>
 
-## <img width="25" height="25" alt="17780457" src="https://github.com/user-attachments/assets/72408d07-c373-49d0-866a-0b47173b6f9c" /> Featured Projects
+## <img width="30" height="30" alt="17780457" src="https://github.com/user-attachments/assets/72408d07-c373-49d0-866a-0b47173b6f9c" /> Featured Projects
 
 ---
 
@@ -106,7 +106,7 @@ Let's connect:
 
 <br/>
 
-## Activity
+## <img width="30" height="30" alt="16765917" src="https://github.com/user-attachments/assets/6903668c-8713-4898-845f-c95b917385b8" /> Activity
 
 <div align="center">
 
