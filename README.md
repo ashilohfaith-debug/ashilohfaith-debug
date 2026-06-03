@@ -75,7 +75,7 @@ Let's connect:
 
 <br/>
 
-## My Goals for 2026
+## My Goals for 2026 <img width="80" height="50" alt="18734737" src="https://github.com/user-attachments/assets/b861bdc8-c379-462a-b119-f1446c46ec1a" />
   
 - [ ] Git & GitHub for professional development
 - [ ] Linux for development and security
