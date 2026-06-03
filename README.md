@@ -69,6 +69,12 @@ Let's connect:
 
 <br/>
 
+## Featured Projects
+
+---
+
+<br/>
+
 ## My Goals for 2026
   
 - [ ] Git & GitHub for professional development
