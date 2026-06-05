@@ -1,21 +1,17 @@
 name: Update Streak Stats on Commit
-
 on:
   push:
     branches:
       - main
   schedule:
-    - cron: "0 * * * *"   # every hour as a fallback
+    - cron: "0 * * * *"
   workflow_dispatch:
-
 permissions:
   contents: write
-
 jobs:
   update:
     runs-on: ubuntu-latest
     if: github.actor != 'github-actions[bot]'
-
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -25,10 +21,9 @@ jobs:
 
       - name: Warm demolab cache
         run: |
-          # Hit demolab directly with no-cache headers to force it to re-fetch your stats
           curl -s -H "Cache-Control: no-cache, no-store" \
                -H "Pragma: no-cache" \
-               "https://streak-stats.demolab.com?user=ashilohfaith-debug&theme=dark&hide_border=true&background=120820&ring=7b4fa6&fire=c2185b&currStreakLabel=9d6ec7&sideLabels=9d6ec7&dates=ffffff&sideNums=c2185b&currStreakNum=7b4fa6&stroke=120820" \
+               "https://streak-stats.demolab.com?user=ashilohfaith-debug&theme=dark&hide_border=true&background=120820&ring=7b4fa6&fire=c2185b&currStreakLabel=9d6ec7&sideLabels=9d6ec7&dates=ffffff&sideNums=c2185b&currStreakNum=7b4fa6" \
                -o /dev/null
 
       - name: Bust streak image cache
@@ -36,14 +31,9 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git pull --rebase origin main
-
-          # Use full timestamp so every push gets a unique cachebust value
           TIMESTAMP=$(date +'%Y-%m-%dT%H-%M-%S')
-
-          sed -i "s/cachebust=[^&\")&]*/cachebust=$TIMESTAMP/" README.md
-
-          sed -i "/<!-- cache-bust:/d" README.md
-
+          # Fixed regex: matches cachebust= followed by any non-& and non-) characters
+          sed -i "s/cachebust=[^&)]*/cachebust=$TIMESTAMP/" README.md
           git add README.md
           if git diff --cached --quiet; then
             echo "Nothing to commit, skipping push."
