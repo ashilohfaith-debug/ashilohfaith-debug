@@ -99,6 +99,8 @@ Let's connect:
 
 <br/>
 
+---
+
 ## <img width="25" height="25" alt="18513826" src="https://github.com/user-attachments/assets/dd539859-f131-42dd-94fa-2f1082b64163" /> Stats
 
 <div align="center">
@@ -106,8 +108,6 @@ Let's connect:
 [![GitHub Streak](https://github-readme-streak-stats-eigh.vercel.app?user=ashilohfaith-debug&theme=dark&hide_border=true&background=120820&ring=7b4fa6&fire=c2185b&currStreakLabel=9d6ec7&sideLabels=9d6ec7&dates=ffffff&sideNums=c2185b&currStreakNum=7b4fa6&cachebust=2026-06-05T12-20-36)](https://github.com/ashilohfaith-debug)
 
 </div>
-
----
 
 <br/>
 
@@ -118,8 +118,6 @@ Let's connect:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashilohfaith-debug&bg_color=120820&color=9d6ec7&line=7b4fa6&point=c2185b&area=true&area_color=7d2150&hide_border=true&custom_title=%20" />
 
 </div>
-
----
 
 <br/>
 
