@@ -132,5 +132,3 @@ Let's connect:
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ashilohfaith-debug/ashilohfaith-debug/main/dist/github-contribution-grid-snake-dark.svg" width="100%" />
   </picture>
 </div>
-
-<br/>
