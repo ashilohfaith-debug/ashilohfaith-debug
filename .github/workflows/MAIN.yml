@@ -17,28 +17,41 @@ jobs:
         with:
           fetch-depth: 0
           token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Generate Snake — Light Theme
         uses: Platane/snk@v3
         with:
           github_user_name: ashilohfaith-debug
           outputs: >-
             dist/github-contribution-grid-snake.svg?color_snake=%23c2185b&color_dots=%23ede9f5,%23c4b5e8,%23a48cd6,%237c5cbf,%235b3fa8&hide_legend=true
+
       - name: Generate Snake — Dark Theme
         uses: Platane/snk@v3
         with:
           github_user_name: ashilohfaith-debug
           outputs: >-
             dist/github-contribution-grid-snake-dark.svg?color_snake=%23c2185b&color_dots=%231e1a2e,%233b2f6b,%235b3fa8,%237c5cbf,%23a48cd6&hide_legend=true
+
+      - name: Remove trail bar from SVGs
+        run: |
+          for f in dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg; do
+            # Remove all <rect class="u ..."> elements (the progress bar)
+            sed -i 's|<rect class="u[^"]*"[^/]*/> *||g' "$f"
+            echo "✓ Trail bar removed from $f"
+          done
+
       - name: Verify Generated Files
         run: |
           echo "Verifying snake animation files..."
           ls -lah dist/
           test -f dist/github-contribution-grid-snake.svg      && echo "✓ Light SVG OK" || exit 1
           test -f dist/github-contribution-grid-snake-dark.svg && echo "✓ Dark SVG OK"  || exit 1
+
       - name: Configure Git
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+
       - name: Commit & Push (if changed)
         run: |
           git add dist/
@@ -50,6 +63,7 @@ jobs:
           fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Upload Artifacts
         uses: actions/upload-artifact@v4
         with:
