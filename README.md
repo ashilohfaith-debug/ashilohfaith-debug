@@ -101,6 +101,8 @@ Let's connect:
 
 ---
 
+<br/>
+
 ## <img width="25" height="25" alt="18513826" src="https://github.com/user-attachments/assets/dd539859-f131-42dd-94fa-2f1082b64163" /> Stats
 
 <div align="center">
