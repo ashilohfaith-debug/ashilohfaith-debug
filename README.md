@@ -71,7 +71,11 @@ Let's connect:
 
 ## <img width="30" height="30" alt="17780457" src="https://github.com/user-attachments/assets/72408d07-c373-49d0-866a-0b47173b6f9c" /> Featured Projects
 
-
+| AI PDF Companion | 
+|-------------|
+| <a href="https://github.com/ashilohfaith-debug/ai-pdf-assistant"><img width="530" height="300" alt="1779260175462" src="https://github.com/user-attachments/assets/c95ffb0b-407e-4a7f-b819-8cee015d9365" /></a> |
+| A simple AI PDF Assistant which can turn long passages into easy summaries. |
+| Built using [Python](https://www.python.org/) and [Streamlit](https://streamlit.io/), and powered by [Google Gemini](https://gemini.google.com/). |
 
 ---
 
