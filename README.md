@@ -51,7 +51,7 @@ Let's connect:
 
 **Frameworks**
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" width="48" height="48" title="Streamlit"/>
+<img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="48" height="48" title="Streamlit"/>
 
 **Tools**
 
