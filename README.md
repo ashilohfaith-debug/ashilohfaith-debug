@@ -23,7 +23,7 @@
 
 ## Who I am
 
-I'm passionate about building software, understanding how systems work — and then figuring out how to break them (securely 😂). I'm deeply interested in emerging technologies such as **AI**, **Cloud** and **Quantum Computing**.
+I'm passionate about building software, understanding how systems work — and then figuring out how to break them (securely 😂). I'm deeply interested in emerging technologies such as **AI**, **Cloud** and **Quantum Computing** as well!
 
 Let's connect:
 
