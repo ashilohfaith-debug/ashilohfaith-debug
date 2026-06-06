@@ -31,6 +31,12 @@ Let's connect:
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiloh-faith-9a2604393/)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-ffcc00?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/ShilohFaith)
 
+View my portfolio:
+
+<a href="https://ashilohfaith-debug.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/-%20PORTFOLIO-120820?style=for-the-badge&logo=github&logoColor=c2185b&labelColor=7b4fa6" />
+</a>
+
 </div>
 
 ---
