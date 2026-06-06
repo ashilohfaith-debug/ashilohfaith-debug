@@ -39,8 +39,6 @@ View my portfolio:
 
 </div>
 
----
-
 <br/>
 
 ## <img width="30" height="30" alt="18371877" src="https://github.com/user-attachments/assets/b49fc8a9-3fff-4ef7-abe6-69f736fdbc4a" /> Tech Arsenal
