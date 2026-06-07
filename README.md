@@ -134,7 +134,7 @@ View my portfolio:
 
 <br/>
 
-## Contribution Snake
+## Contribution Squares
 
 <div align="center">
   <picture>
