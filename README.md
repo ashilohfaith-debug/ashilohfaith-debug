@@ -87,6 +87,8 @@ View my portfolio:
 
 ## <img width="35" height="35" alt="14466540" src="https://github.com/user-attachments/assets/226a170e-707e-4df9-80e1-d81dba1da8f8" /> Certifications
 
+
+
 ---
 
 <br/>
