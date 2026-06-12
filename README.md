@@ -99,7 +99,7 @@ View my portfolio:
 ## My Goals for 2026
   
 - [ ] Git & GitHub for professional development
-- [ ] Linux for development and security
+- [x] Linux for development and security
 - [ ] Data Structures & Algorithms through LeetCode
 - [ ] SQL for databases
 - [ ] REST APIs for application communication
