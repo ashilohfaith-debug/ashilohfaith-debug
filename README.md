@@ -79,7 +79,7 @@ View my portfolio:
 | AI PDF Companion | 
 |-------------|
 | <a href="https://github.com/ashilohfaith-debug/ai-pdf-assistant"><img width="530" height="300" alt="1779260175462" src="https://github.com/user-attachments/assets/c95ffb0b-407e-4a7f-b819-8cee015d9365" /></a> |
-| A simple AI PDF Assistant which can turn long passages into easy summaries. <br/> Built using [Python](https://www.python.org/) and [Streamlit](https://streamlit.io/), and powered by [Google Gemini](https://gemini.google.com/). |
+| A simple AI PDF Assistant which can turn long passages into easy summaries. <br/> Built using [Python](https://www.python.org/) and [Streamlit](https://streamlit.io/). Powered by [Google Gemini](https://gemini.google.com/). |
 
 ---
 
