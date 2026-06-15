@@ -21,24 +21,20 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
 
-      - name: Warm streak cache
+      - name: Download streak image
         run: |
-          curl -s -H "Cache-Control: no-cache, no-store" \
-               -H "Pragma: no-cache" \
-               "https://github-readme-streak-stats-eigh.vercel.app?user=ashilohfaith-debug&theme=dark&hide_border=true&background=120820&ring=7b4fa6&fire=c2185b&currStreakLabel=9d6ec7&sideLabels=9d6ec7&dates=ffffff&sideNums=c2185b&currStreakNum=7b4fa6" \
-               -o /dev/null
+          curl -s "https://github-readme-streak-stats-eigh.vercel.app?user=ashilohfaith-debug&theme=dark&hide_border=true&background=120820&ring=7b4fa6&fire=c2185b&currStreakLabel=9d6ec7&sideLabels=9d6ec7&dates=ffffff&sideNums=c2185b&currStreakNum=7b4fa6" \
+               -o streak.svg
 
-      - name: Bust streak image cache
+      - name: Commit streak image
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git pull --rebase origin main
-          TIMESTAMP=$(date +'%Y-%m-%dT%H-%M-%S')
-          sed -i "s/cachebust=[^&)]*/cachebust=$TIMESTAMP/" README.md
-          git add README.md
+          git add streak.svg
           if git diff --cached --quiet; then
-            echo "Nothing to commit, skipping push."
+            echo "No changes, skipping push."
           else
-            git commit -m "chore: refresh stats cache [$TIMESTAMP]"
+            git commit -m "chore: update streak image"
             git push origin main
           fi
