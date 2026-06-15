@@ -123,7 +123,7 @@ View my portfolio:
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ashilohfaith-debug&theme=dark&hide_border=true&background=120820&ring=7b4fa6&fire=c2185b&currStreakLabel=9d6ec7&sideLabels=9d6ec7&dates=ffffff&sideNums=c2185b&currStreakNum=7b4fa6)](https://github.com/ashilohfaith-debug)
+[![GitHub Streak](https://github-readme-streak-stats-eigh.vercel.app?user=ashilohfaith-debug&theme=dark&hide_border=true&background=120820&ring=7b4fa6&fire=c2185b&currStreakLabel=9d6ec7&sideLabels=9d6ec7&dates=ffffff&sideNums=c2185b&currStreakNum=7b4fa6&cachebust=init)](https://github.com/ashilohfaith-debug)
 
 </div>
 
