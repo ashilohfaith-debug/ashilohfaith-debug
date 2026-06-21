@@ -91,6 +91,10 @@ View my portfolio:
 |---------------|---------------|
 | <img width="530" height="300" alt="bootdev_certificate" src="https://github.com/user-attachments/assets/4195b89f-2027-432d-91fa-278e7bf60256" /> | <img width="530" height="300" alt="Boot dev Certificate of Completion - Learn Git" src="https://github.com/user-attachments/assets/1998c6cd-54ad-4f69-b619-470cf50e686d" /> |
 
+| [Learn SQL](https://www.boot.dev/courses/learn-sql) |
+|---------------|
+| <img width="530" height="300" alt="Boot dev Certificate of Completion - Learn SQL" src="https://github.com/user-attachments/assets/f81d3c48-3666-4e0e-b914-4bb552b6f364" /> |
+
 ---
 
 <br/>
