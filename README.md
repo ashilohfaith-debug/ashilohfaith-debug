@@ -37,7 +37,7 @@ View my portfolio:
     <img src="https://img.shields.io/badge/-%20PORTFOLIO-120820?style=for-the-badge&logo=github&logoColor=c2185b&labelColor=7b4fa6" />
 </a>
 
-View my learning progress on [Boot.dev](https://www.boot.dev/):
+View my learning progress on [Boot.dev](https://www.boot.dev/u/powerfulperson08):
 
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/d4089477-2272-4846-b4a6-e84e28289c0d/thumbnail" width="250">
