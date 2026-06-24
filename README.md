@@ -96,7 +96,7 @@ View my learning progress on [Boot.dev](https://www.boot.dev/u/powerfulperson08)
 - [x] Git & GitHub for professional development
 - [x] Linux basics for development and security
 - [ ] Data Structures & Algorithms through LeetCode
-- [ ] SQL for databases
+- [x] SQL for databases
 - [ ] REST APIs for application communication
 - [ ] Spring Boot for backend development
 - [ ] UI & UX for designing user-friendly applications
