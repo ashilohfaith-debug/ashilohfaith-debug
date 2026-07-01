@@ -73,6 +73,7 @@ View my learning progress on [Boot.dev](https://www.boot.dev/u/powerfulperson08)
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" width="48" height="48" title="Gemini"/>&nbsp;&nbsp;
 <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude-color.png" width="48" height="48" title="Claude"/>
 <img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/antigravity-color.png" width="48" height="48" title="Antigravity"/>
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/kiro-color.svg" width="48" height="48" title="Kiro"/>
 
 </div>
 
