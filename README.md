@@ -63,7 +63,9 @@ View my learning progress on [Boot.dev](https://www.boot.dev/u/powerfulperson08)
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=java,c,python&theme=dark" />
+[![Java](https://skillicons.dev/icons?i=java&theme=dark)](https://www.java.com/)
+[![C](https://skillicons.dev/icons?i=c&theme=dark)](https://www.learn-c.org/)
+[![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://www.python.org/)
 
 **Tools**
 
