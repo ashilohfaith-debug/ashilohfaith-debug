@@ -53,27 +53,31 @@ View my learning progress on [Boot.dev](https://www.boot.dev/u/powerfulperson08)
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+[![HTML](https://skillicons.dev/icons?i=html&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://skillicons.dev/icons?i=css&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+**Backend**
+
+[![SQLite](https://skillicons.dev/icons?i=sqlite&theme=dark)](https://www.sqlite.org/)
 
 **Languages**
 
 <img src="https://skillicons.dev/icons?i=java,c,python&theme=dark" />
 
-**Frameworks**
-
-<img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="48" height="48" title="Streamlit"/>
-
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=vscode,github,git&theme=dark" />
+[![VSCode](https://skillicons.dev/icons?i=vscode&theme=dark)](https://code.visualstudio.com/)
+[![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/)
+[![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://git-scm.com/)
 
 **AI Tools**
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="48" height="48" title="ChatGPT"/>&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" width="48" height="48" title="Gemini"/>&nbsp;&nbsp;
-<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude-color.png" width="48" height="48" title="Claude"/>
-<img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/antigravity-color.png" width="48" height="48" title="Antigravity"/>
-<img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/kiro-color.svg" width="48" height="48" title="Kiro"/>
+[<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="48" height="48" title="ChatGPT"/>](https://chatgpt.com/)&nbsp;&nbsp;
+[<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" width="48" height="48" title="Gemini"/>](https://gemini.google.com/)&nbsp;&nbsp;
+[<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude-color.png" width="48" height="48" title="Claude"/>](https://claude.ai/)&nbsp;&nbsp;
+[<img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/antigravity-color.png" width="48" height="48" title="Antigravity"/>](https://antigravity.google/)
+[<img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/kiro-color.svg" width="48" height="48" title="Kiro"/>](https://kiro.dev/)
 
 </div>
 
