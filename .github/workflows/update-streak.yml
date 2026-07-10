@@ -15,25 +15,23 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Warm stats cache
+      - name: Warm streak cache
         run: |
-          curl -s "https://github-readme-stats.vercel.app/api?username=ashilohfaith-debug" -o /dev/null
-          curl -s "https://github-readme-streak-stats-eigh.vercel.app?user=ashilohfaith-debug" -o /dev/null
+          curl -s "https://streak-stats.demolab.com?user=ashilohfaith-debug" -o /dev/null
 
-      - name: Update timestamp in README
+      - name: Bust README cache
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          
+
           TIMESTAMP=$(date +'%Y-%m-%dT%H-%M-%S')
-          
-          # Add or update a hidden timestamp comment in README
+
           if grep -q "<!-- stats-refresh:" README.md; then
             sed -i "s/<!-- stats-refresh:[^>]*-->/<!-- stats-refresh:$TIMESTAMP -->/" README.md
           else
             echo "<!-- stats-refresh:$TIMESTAMP -->" >> README.md
           fi
-          
+
           git add README.md
           if git diff --cached --quiet; then
             echo "Nothing to commit"
