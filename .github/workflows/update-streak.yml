@@ -1,40 +1,54 @@
-name: Update Streak Stats on Commit
+name: Update Stats on Commit
+
 on:
   push:
     branches:
       - main
   schedule:
-    - cron: "0 * * * *"   # every hour as a fallback
+    - cron: "0 */6 * * *"   # every 6 hours is enough; hourly hammers the API
   workflow_dispatch:
+
 permissions:
   contents: write
+
 jobs:
   update:
     runs-on: ubuntu-latest
-    if: github.actor != 'github-actions[bot]'
+    # FIX 1: Don't block scheduled runs; only skip bot-triggered push events
+    if: github.event_name != 'push' || github.actor != 'github-actions[bot]'
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT_TOKEN }}   # FIX 2: Use PAT, not GITHUB_TOKEN
           fetch-depth: 0
-      - name: Warm streak cache
+
+      # FIX 3: Warm BOTH cards
+      - name: Warm stats card cache
         run: |
           curl -s -H "Cache-Control: no-cache, no-store" \
-               -H "Pragma: no-cache" \
+               "https://github-readme-stats.vercel.app/api?username=ashilohfaith-debug&show_icons=true&theme=dark" \
+               -o /dev/null
+          sleep 2
+
+      - name: Warm streak card cache
+        run: |
+          curl -s -H "Cache-Control: no-cache, no-store" \
                "https://github-readme-streak-stats-eigh.vercel.app?user=ashilohfaith-debug&theme=dark&hide_border=true&background=120820&ring=7b4fa6&fire=c2185b&currStreakLabel=9d6ec7&sideLabels=9d6ec7&dates=ffffff&sideNums=c2185b&currStreakNum=7b4fa6" \
                -o /dev/null
-      - name: Bust streak image cache
+
+      - name: Bust cache in README
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git pull --rebase origin main
+
           TIMESTAMP=$(date +'%Y-%m-%dT%H-%M-%S')
-          sed -i "s/cachebust=[^&)]*/cachebust=$TIMESTAMP/" README.md
-          git add README.md
-          if git diff --cached --quiet; then
-            echo "Nothing to commit, skipping push."
+
+          # FIX 4: Use a safe sed that works whether cachebust exists or not
+          # For streak stats URL
+          if grep -q "cachebust=" README.md; then
+            sed -i "s/cachebust=[^&)\"']*/cachebust=$TIMESTAMP/g" README.md
           else
-            git commit -m "chore: refresh stats cache [$TIMESTAMP]"
-            git push origin main
-          fi
+            sed -i "s|\(github-readme-streak-stats[^)\"']
