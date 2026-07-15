@@ -58,7 +58,7 @@ View my portfolio:
 **Languages**
 
 [<img src="https://skillicons.dev/icons?i=java&theme=dark" width="40" height="40" title="Java"/>](https://www.java.com/)&nbsp;&nbsp;
-[<img src="https://skillicons.dev/icons?i=c&theme=dark" width="40" height="40" title="C"/>](https://www.learn-c.org/)&nbsp;&nbsp;
+[<img src="https://skillicons.dev/icons?i=c&theme=dark" width="40" height="40" title="C"/>](https://www.c-language.org/community)&nbsp;&nbsp;
 [<img src="https://skillicons.dev/icons?i=python&theme=dark" width="40" height="40" title="Python"/>](https://www.python.org/)&nbsp;&nbsp;
 
 **Tools**
@@ -75,37 +75,6 @@ View my portfolio:
 [<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude-color.png" width="40" height="40" title="Claude"/>](https://claude.ai/)&nbsp;&nbsp;
 [<img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/antigravity-color.png" width="40" height="40" title="Antigravity"/>](https://antigravity.google/)&nbsp;&nbsp;
 [<img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/kiro-color.svg" width="40" height="40" title="Kiro"/>](https://kiro.dev/)&nbsp;&nbsp;
-
-**Frontend**
-
-[![HTML](https://skillicons.dev/icons?i=html&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://skillicons.dev/icons?i=css&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-**Backend**
-
-[![SQLite](https://skillicons.dev/icons?i=sqlite&theme=dark)](https://www.sqlite.org/)
-
-**Languages**
-
-[![Java](https://skillicons.dev/icons?i=java&theme=dark)](https://www.java.com/)
-[![C](https://skillicons.dev/icons?i=c&theme=dark)](https://www.learn-c.org/)
-[![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://www.python.org/)
-
-**Tools**
-
-[![VSCode](https://skillicons.dev/icons?i=vscode&theme=dark)](https://code.visualstudio.com/)
-[![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/)
-[![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://git-scm.com/)
-
-**AI Tools**
-
-[<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="48" height="48" title="ChatGPT"/>](https://chatgpt.com/)&nbsp;&nbsp;
-[<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" width="48" height="48" title="Gemini"/>](https://gemini.google.com/)&nbsp;&nbsp;
-[<img src="https://img.icons8.com/fluency/48/microsoft-copilot.png" width="48" height="48" title="Copilot"/>](https://copilot.microsoft.com/)&nbsp;&nbsp;
-[<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude-color.png" width="48" height="48" title="Claude"/>](https://claude.ai/)&nbsp;&nbsp;
-[<img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/antigravity-color.png" width="48" height="48" title="Antigravity"/>](https://antigravity.google/)
-[<img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/kiro-color.svg" width="48" height="48" title="Kiro"/>](https://kiro.dev/)
 
 </div>
 
