@@ -93,7 +93,7 @@ View my portfolio:
 
 <br/>
 
-## <img width="30" height="30" alt="4859744" src="https://github.com/user-attachments/assets/edc9aba7-d0ad-44b9-a8bc-350608dc7285" />  My Goals for 2026
+## <img width="35" height="35" alt="goal2" src="https://github.com/user-attachments/assets/455b7f41-4516-4b09-87c1-b6e669ea780b" /> My Goals for 2026
   
 - [x] Git & GitHub for professional development
 - [x] Linux basics for development and security
