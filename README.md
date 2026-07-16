@@ -110,8 +110,6 @@ View my portfolio:
 
 *This is just a glimpse of the list of things I want to learn, practice and build.*
 
-<br/>
-
 ---
 
 <br/>
