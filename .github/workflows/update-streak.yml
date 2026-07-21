@@ -1,41 +1,30 @@
-name: Refresh README Stats
+name: Update Streak Stats
 
 on:
   schedule:
     - cron: "0 */6 * * *"
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
-  refresh:
+  build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Warm streak cache
-        run: |
-          curl -s "https://streak-stats.demolab.com?user=ashilohfaith-debug" -o /dev/null
+      - name: Generate streak stats SVG
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=ashilohfaith-debug&theme=dark&hide_border=true&background=120820&ring=7b4fa6&fire=c2185b&currStreakLabel=9d6ec7&sideLabels=9d6ec7&dates=ffffff&sideNums=c2185b&currStreakNum=7b4fa6
+          path: profile/streak.svg
+          token: ${{ secrets.STREAK_TOKEN }}
 
-      - name: Bust README cache
+      - name: Commit SVG
         run: |
           git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-
-          TIMESTAMP=$(date +'%Y-%m-%dT%H-%M-%S')
-
-          if grep -q "<!-- stats-refresh:" README.md; then
-            sed -i "s/<!-- stats-refresh:[^>]*-->/<!-- stats-refresh:$TIMESTAMP -->/" README.md
-          else
-            echo "<!-- stats-refresh:$TIMESTAMP -->" >> README.md
-          fi
-
-          git add README.md
-          if git diff --cached --quiet; then
-            echo "Nothing to commit"
-          else
-            git commit -m "chore: refresh stats [$TIMESTAMP]"
-            git push
-          fi
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/streak.svg
+          git commit -m "chore: update streak stats" || exit 0
+          git push
