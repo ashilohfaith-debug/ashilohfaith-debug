@@ -86,7 +86,7 @@ View my portfolio:
 
 | Project |	Description |	Tech Stack |	Live | Repository |
 |---------|-------------|------------|------------|------------|
-| AI PDF Companion | A simple AI PDF Assistant which can turn long passages into easy summaries. | [Python](https://www.python.org/), [Streamlit](https://streamlit.io/), [Google Gemini](https://gemini.google.com/). | [View](https://ai-pdf-assistant-8hymgebtssqcbtr46bxqtw.streamlit.app/) | [Repo](https://github.com/ashilohfaith-debug/ai-pdf-assistant) |
+| AI PDF Companion | A simple AI PDF Assistant which can turn long passages into easy summaries. | [Python](https://www.python.org/), [Streamlit](https://streamlit.io/), [Google Gemini](https://gemini.google.com/) | [View](https://ai-pdf-assistant-8hymgebtssqcbtr46bxqtw.streamlit.app/) | [Repo](https://github.com/ashilohfaith-debug/ai-pdf-assistant) |
 
 ---
 
