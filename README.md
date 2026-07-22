@@ -96,7 +96,7 @@ View my portfolio:
   
 - [x] Git & GitHub for professional development
 - [x] Linux basics for development and security
-- [x] Data Structures & Algorithms through LeetCode
+- [ ] Data Structures & Algorithms through LeetCode
 - [x] SQL for databases
 - [ ] REST APIs for application communication
 - [ ] Spring Boot for backend development
