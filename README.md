@@ -25,7 +25,7 @@
 
 I'm currently learning software development, understanding how systems work—and figuring out how to break them (securely 😂). I’m also actively exploring the frontiers of emerging tech like **AI**, **Cloud**, and **Quantum Computing**!
 
-I recently read that Quantum AI combines quantum computing with machine learning to unlock breakthroughs in speed, optimization, and intelligence.
+I recently read that `Quantum AI` combines quantum computing with machine learning to unlock breakthroughs in speed, optimization, and intelligence.
 Know more about it [here](https://cloudsoftsol.com/blog/quantum-ai-explained-the-next-tech-disruption-arriving-by-2026/).
 
 Let's connect:
