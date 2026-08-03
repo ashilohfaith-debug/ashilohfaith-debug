@@ -90,6 +90,9 @@ View my portfolio:
 | Project |	Description |	Tech Stack |	Live | Repository |
 |---------|-------------|------------|------------|------------|
 | AI PDF Companion | A simple AI PDF Assistant which can turn long passages into easy summaries. | [Python](https://www.python.org/), [Streamlit](https://streamlit.io/), [Google Gemini](https://gemini.google.com/) | [View](https://ai-pdf-assistant-8hymgebtssqcbtr46bxqtw.streamlit.app/) | [Repo](https://github.com/ashilohfaith-debug/ai-pdf-assistant) |
+| InnSight | An AI-powered prototype for short-term rental and booking that helps travelers find personalised stays using intelligent recommendations. | React, TypeScript, Tailwind CSS, Google Maps API, Gemini AI | Coming Soon | [View](https://github.com/ashilohfaith-debug/InnSight) |
+| ReWorth |	An AI-powered Waste-to-Wealth platform that identifies waste using computer vision and recommends recycling methods to promote a circular economy. | React, TypeScript, Gemini AI, Tailwind CSS | Coming Soon | [View](https://github.com/ashilohfaith-debug/ReWorth) |
+| Ochre |	A collaborative workspace where real-time coding, AI assistance, and version history exist together. | React, Monaco Editor, Node.js, WebSockets, Yjs (CRDT), PostgreSQL | Coming Soon | [View](https://github.com/ashilohfaith-debug/Ochre) |
 
 ---
 
