@@ -56,34 +56,34 @@ View my portfolio:
 
 **Frontend**
 
-[<img src="https://skillicons.dev/icons?i=html&theme=dark" width="35" height="35" title="HTML"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)&nbsp;&nbsp;
-[<img src="https://skillicons.dev/icons?i=css&theme=dark" width="35" height="35" title="CSS"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)&nbsp;&nbsp;
-[<img src="https://skillicons.dev/icons?i=js&theme=dark" width="35" height="35" title="JavaScript"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;&nbsp;
+[<img src="https://skillicons.dev/icons?i=html&theme=dark" width="33" height="33" title="HTML"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)&nbsp;&nbsp;
+[<img src="https://skillicons.dev/icons?i=css&theme=dark" width="33" height="33" title="CSS"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)&nbsp;&nbsp;
+[<img src="https://skillicons.dev/icons?i=js&theme=dark" width="33" height="33" title="JavaScript"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;&nbsp;
 
 **Backend**
 
-[<img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="35" height="35" title="SQLite"/>](https://www.sqlite.org/)&nbsp;&nbsp;
+[<img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="33" height="33" title="SQLite"/>](https://www.sqlite.org/)&nbsp;&nbsp;
 
 **Languages**
 
-[<img src="https://skillicons.dev/icons?i=java&theme=dark" width="35" height="35" title="Java"/>](https://www.java.com/)&nbsp;&nbsp;
-[<img src="https://skillicons.dev/icons?i=c&theme=dark" width="35" height="35" title="C"/>](https://www.c-language.org/community)&nbsp;&nbsp;
-[<img src="https://skillicons.dev/icons?i=python&theme=dark" width="35" height="35" title="Python"/>](https://www.python.org/)&nbsp;&nbsp;
+[<img src="https://skillicons.dev/icons?i=java&theme=dark" width="33" height="33" title="Java"/>](https://www.java.com/)&nbsp;&nbsp;
+[<img src="https://skillicons.dev/icons?i=c&theme=dark" width="33" height="33" title="C"/>](https://www.c-language.org/community)&nbsp;&nbsp;
+[<img src="https://skillicons.dev/icons?i=python&theme=dark" width="33" height="33" title="Python"/>](https://www.python.org/)&nbsp;&nbsp;
 
 **Tools**
 
-[<img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="35" height="35" title="VS Code"/>](https://code.visualstudio.com/)&nbsp;&nbsp;
-[<img src="https://skillicons.dev/icons?i=github&theme=dark" width="35" height="35" title="GitHub"/>](https://github.com/)&nbsp;&nbsp;
-[<img src="https://skillicons.dev/icons?i=git&theme=dark" width="35" height="35" title="Git"/>](https://git-scm.com/)&nbsp;&nbsp;
+[<img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="33" height="33" title="VS Code"/>](https://code.visualstudio.com/)&nbsp;&nbsp;
+[<img src="https://skillicons.dev/icons?i=github&theme=dark" width="33" height="33" title="GitHub"/>](https://github.com/)&nbsp;&nbsp;
+[<img src="https://skillicons.dev/icons?i=git&theme=dark" width="33" height="33" title="Git"/>](https://git-scm.com/)&nbsp;&nbsp;
 
 **AI Tools**
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="35" height="35" title="ChatGPT"/>](https://chatgpt.com/)&nbsp;&nbsp;
-[<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" width="35" height="35" title="Gemini"/>](https://gemini.google.com/)&nbsp;&nbsp;
-[<img src="https://img.icons8.com/fluency/48/microsoft-copilot.png" width="35" height="35" title="Copilot"/>](https://copilot.microsoft.com/)&nbsp;&nbsp;
-[<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude-color.png" width="35" height="35" title="Claude"/>](https://claude.ai/)&nbsp;&nbsp;
-[<img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/antigravity-color.png" width="35" height="35" title="Antigravity"/>](https://antigravity.google/)&nbsp;&nbsp;
-[<img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/kiro-color.svg" width="35" height="35" title="Kiro"/>](https://kiro.dev/)&nbsp;&nbsp;
+[<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="33" height="33" title="ChatGPT"/>](https://chatgpt.com/)&nbsp;&nbsp;
+[<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" width="33" height="33" title="Gemini"/>](https://gemini.google.com/)&nbsp;&nbsp;
+[<img src="https://img.icons8.com/fluency/48/microsoft-copilot.png" width="33" height="33" title="Copilot"/>](https://copilot.microsoft.com/)&nbsp;&nbsp;
+[<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude-color.png" width="33" height="33" title="Claude"/>](https://claude.ai/)&nbsp;&nbsp;
+[<img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/antigravity-color.png" width="33" height="33" title="Antigravity"/>](https://antigravity.google/)&nbsp;&nbsp;
+[<img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/kiro-color.svg" width="33" height="33" title="Kiro"/>](https://kiro.dev/)&nbsp;&nbsp;
 
 </div>
 
