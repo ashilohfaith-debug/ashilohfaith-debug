@@ -139,7 +139,7 @@ View my portfolio:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=ashilohfaith-debug&theme=dark&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashilohfaith-debug&bg_color=120820&color=9d6ec7&line=7b4fa6&point=c2185b&area=true&area_color=7d2150&hide_border=true&custom_title=%20" />
 
 </div>
 
