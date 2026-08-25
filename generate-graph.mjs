@@ -66,7 +66,7 @@ const maxCount = Math.max(...last31.map((d) => d.contributionCount), 1);
 
 const bgColor = '#120820';
 const barColor = '#9d6ec7';
-const pinkColor = '#ff2e8f';
+const pinkColor = '#c4185c';
 const textColor = '#e6dcf5';
 const axisColor = '#4a3766';
 
@@ -116,9 +116,6 @@ const svg = `<svg width="${width}" height="${height}" viewBox="0 0 ${width} ${he
   <rect width="${width}" height="${height}" rx="12" fill="${bgColor}" />
   <text x="${padding}" y="30" font-family="Segoe UI, sans-serif" font-size="18" fill="${pinkColor}" font-weight="bold">
     Faith's Activity Graph
-  </text>
-  <text x="${padding}" y="50" font-family="Segoe UI, sans-serif" font-size="12" fill="${pinkColor}">
-    ${totalContributions} contributions in the last 31 days
   </text>
   ${axisLine}
   ${yTicks}
