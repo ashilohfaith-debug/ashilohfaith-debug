@@ -1,0 +1,40 @@
+<svg width="720" height="260" viewBox="0 0 720 260" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="260" rx="12" fill="#120820" />
+  <text x="40" y="30" font-family="Segoe UI, sans-serif" font-size="18" fill="#e6dcf5" font-weight="bold">
+    ashilohfaith-debug's Activity Graph
+  </text>
+  <text x="40" y="50" font-family="Segoe UI, sans-serif" font-size="12" fill="#7b4fa6">
+    192 contributions in the last 31 days
+  </text>
+  <rect x="40.00" y="212.73" width="16.65" height="7.27" fill="#9d6ec7" rx="2" />
+  <rect x="60.65" y="220.00" width="16.65" height="0.00" fill="#9d6ec7" rx="2" />
+  <rect x="81.29" y="216.36" width="16.65" height="3.64" fill="#9d6ec7" rx="2" />
+  <rect x="101.94" y="212.73" width="16.65" height="7.27" fill="#9d6ec7" rx="2" />
+  <rect x="122.58" y="220.00" width="16.65" height="0.00" fill="#9d6ec7" rx="2" />
+  <rect x="143.23" y="107.27" width="16.65" height="112.73" fill="#9d6ec7" rx="2" />
+  <rect x="163.87" y="60.00" width="16.65" height="160.00" fill="#9d6ec7" rx="2" />
+  <rect x="184.52" y="147.27" width="16.65" height="72.73" fill="#9d6ec7" rx="2" />
+  <rect x="205.16" y="140.00" width="16.65" height="80.00" fill="#9d6ec7" rx="2" />
+  <rect x="225.81" y="212.73" width="16.65" height="7.27" fill="#9d6ec7" rx="2" />
+  <rect x="246.45" y="216.36" width="16.65" height="3.64" fill="#9d6ec7" rx="2" />
+  <rect x="267.10" y="216.36" width="16.65" height="3.64" fill="#9d6ec7" rx="2" />
+  <rect x="287.74" y="176.36" width="16.65" height="43.64" fill="#9d6ec7" rx="2" />
+  <rect x="308.39" y="205.45" width="16.65" height="14.55" fill="#9d6ec7" rx="2" />
+  <rect x="329.03" y="212.73" width="16.65" height="7.27" fill="#9d6ec7" rx="2" />
+  <rect x="349.68" y="216.36" width="16.65" height="3.64" fill="#9d6ec7" rx="2" />
+  <rect x="370.32" y="201.82" width="16.65" height="18.18" fill="#9d6ec7" rx="2" />
+  <rect x="390.97" y="198.18" width="16.65" height="21.82" fill="#9d6ec7" rx="2" />
+  <rect x="411.61" y="209.09" width="16.65" height="10.91" fill="#9d6ec7" rx="2" />
+  <rect x="432.26" y="212.73" width="16.65" height="7.27" fill="#9d6ec7" rx="2" />
+  <rect x="452.90" y="209.09" width="16.65" height="10.91" fill="#9d6ec7" rx="2" />
+  <rect x="473.55" y="212.73" width="16.65" height="7.27" fill="#9d6ec7" rx="2" />
+  <rect x="494.19" y="205.45" width="16.65" height="14.55" fill="#9d6ec7" rx="2" />
+  <rect x="514.84" y="201.82" width="16.65" height="18.18" fill="#9d6ec7" rx="2" />
+  <rect x="535.48" y="212.73" width="16.65" height="7.27" fill="#9d6ec7" rx="2" />
+  <rect x="556.13" y="216.36" width="16.65" height="3.64" fill="#9d6ec7" rx="2" />
+  <rect x="576.77" y="216.36" width="16.65" height="3.64" fill="#9d6ec7" rx="2" />
+  <rect x="597.42" y="216.36" width="16.65" height="3.64" fill="#9d6ec7" rx="2" />
+  <rect x="618.06" y="194.55" width="16.65" height="25.45" fill="#9d6ec7" rx="2" />
+  <rect x="638.71" y="209.09" width="16.65" height="10.91" fill="#9d6ec7" rx="2" />
+  <rect x="659.35" y="212.73" width="16.65" height="7.27" fill="#9d6ec7" rx="2" />
+</svg>
