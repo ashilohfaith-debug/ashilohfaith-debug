@@ -114,7 +114,7 @@ const totalContributions = last31.reduce((sum, d) => sum + d.contributionCount, 
 
 const svg = `<svg width="${width}" height="${height}" viewBox="0 0 ${width} ${height}" xmlns="http://www.w3.org/2000/svg">
   <rect width="${width}" height="${height}" rx="12" fill="${bgColor}" />
-  <text x="${padding}" y="30" font-family="Segoe UI, sans-serif" font-size="18" fill="${pinkColor}" font-weight="bold">
+  <text x="${padding}" y="30" font-family="Segoe UI, sans-serif" font-size="18" fill="${pinkColor}">
     Faith's Activity Graph
   </text>
   ${axisLine}
