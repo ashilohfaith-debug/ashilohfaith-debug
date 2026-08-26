@@ -1,6 +1,6 @@
 <svg width="720" height="260" viewBox="0 0 720 260" xmlns="http://www.w3.org/2000/svg">
   <rect width="720" height="260" rx="12" fill="#120820" />
-  <text x="40" y="30" font-family="Segoe UI, sans-serif" font-size="18" fill="#c4185c" font-weight="bold">
+  <text x="40" y="30" font-family="Segoe UI, sans-serif" font-size="18" fill="#c4185c">
     Faith's Activity Graph
   </text>
   <line x1="40" y1="60" x2="40" y2="220" stroke="#4a3766" stroke-width="1" />
