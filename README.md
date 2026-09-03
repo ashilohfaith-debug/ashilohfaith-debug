@@ -116,8 +116,6 @@ View my portfolio:
 - [ ] AWS Fundamentals for cloud computing
 - [ ] NumPy & Pandas for AI and data processing
 - [ ] Machine Learning & LLMs for building intelligent applications
-- [ ] TryHackMe for cybersecurity and bug bounty practice
-- [ ] AI Security
 
 *This is just a glimpse of the list of things I want to learn, practice and build.*
 
