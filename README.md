@@ -27,14 +27,14 @@ I'm currently learning software development, understanding how systems work—an
 
 <br/>
 
+I also love [participating in Hackathons](https://github.com/ashilohfaith-debug/hackathons-ive-attended) and building scalable solutions!
+
+<br/>
+
 *🪡 Thread of thought:*
 
 I recently read that `Quantum AI` combines **Quantum Computing** with **Machine Learning** to unlock breakthroughs in speed, optimisation, and intelligence.
 Know more about it [here](https://cloudsoftsol.com/blog/quantum-ai-explained-the-next-tech-disruption-arriving-by-2026/).
-
-<br/>
-
-I also love [participating in Hackathons](https://github.com/ashilohfaith-debug/hackathons-ive-attended) and building scalable solutions!
 
 <br/>
 
