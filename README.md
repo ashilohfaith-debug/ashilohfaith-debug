@@ -80,6 +80,7 @@ View my portfolio:
 [<img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="33" height="33" title="VS Code"/>](https://code.visualstudio.com/)&nbsp;&nbsp;
 [<img src="https://skillicons.dev/icons?i=github&theme=dark" width="33" height="33" title="GitHub"/>](https://github.com/)&nbsp;&nbsp;
 [<img src="https://skillicons.dev/icons?i=git&theme=dark" width="33" height="33" title="Git"/>](https://git-scm.com/)&nbsp;&nbsp;
+[<img src="https://skillicons.dev/icons?i=linux&theme=dark" width="33" height="33" title="Linux"/>](https://www.linux.org/)&nbsp;&nbsp;
 
 **AI Tools**
 
