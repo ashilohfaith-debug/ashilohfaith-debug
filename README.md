@@ -69,6 +69,7 @@ View my portfolio:
 [<img src="https://skillicons.dev/icons?i=java&theme=dark" width="33" height="33" title="Java"/>](https://www.java.com/)&nbsp;&nbsp;
 [<img src="https://skillicons.dev/icons?i=c&theme=dark" width="33" height="33" title="C"/>](https://www.c-language.org/community)&nbsp;&nbsp;
 [<img src="https://skillicons.dev/icons?i=python&theme=dark" width="33" height="33" title="Python"/>](https://www.python.org/)&nbsp;&nbsp;
+[<img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="33" height="33" title="C++"/>](https://isocpp.org/)&nbsp;&nbsp;
 
 **Tools**
 
