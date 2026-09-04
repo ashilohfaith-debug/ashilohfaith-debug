@@ -27,7 +27,7 @@ I'm currently learning software development, understanding how systems work—an
 
 <br/>
 
-I also love [participating in Hackathons](https://github.com/ashilohfaith-debug/hackathons-ive-attended) and building scalable solutions!
+I also enjoy [participating in Hackathons](https://github.com/ashilohfaith-debug/hackathons-ive-attended) and building scalable solutions!
 
 <br/>
 
