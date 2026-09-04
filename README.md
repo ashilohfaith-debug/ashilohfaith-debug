@@ -34,6 +34,10 @@ Know more about it [here](https://cloudsoftsol.com/blog/quantum-ai-explained-the
 
 <br/>
 
+I also love [participating in Hackathons](https://github.com/ashilohfaith-debug/hackathons-ive-attended) and building scalable solutions!
+
+<br/>
+
 Let's connect:
 
 ![Email Address](https://img.shields.io/badge/ashilohfaith@gmail.com-EA4335?style=for-the-badge&logoColor=white)
