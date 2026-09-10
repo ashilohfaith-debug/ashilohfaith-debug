@@ -82,15 +82,6 @@ View my portfolio:
 [<img src="https://skillicons.dev/icons?i=git&theme=dark" width="33" height="33" title="Git"/>](https://git-scm.com/)&nbsp;&nbsp;
 [<img src="https://skillicons.dev/icons?i=linux&theme=dark" width="33" height="33" title="Linux"/>](https://www.linux.org/)&nbsp;&nbsp;
 
-**AI Tools**
-
-[<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="33" height="33" title="ChatGPT"/>](https://chatgpt.com/)&nbsp;&nbsp;
-[<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" width="33" height="33" title="Gemini"/>](https://gemini.google.com/)&nbsp;&nbsp;
-[<img src="https://img.icons8.com/fluency/48/microsoft-copilot.png" width="33" height="33" title="Copilot"/>](https://copilot.microsoft.com/)&nbsp;&nbsp;
-[<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude-color.png" width="33" height="33" title="Claude"/>](https://claude.ai/)&nbsp;&nbsp;
-[<img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/antigravity-color.png" width="33" height="33" title="Antigravity"/>](https://antigravity.google/)&nbsp;&nbsp;
-[<img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/kiro-color.svg" width="33" height="33" title="Kiro"/>](https://kiro.dev/)&nbsp;&nbsp;
-
 </div>
 
 ---
