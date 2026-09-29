@@ -102,25 +102,6 @@ View my portfolio:
 
 <br/>
 
-## <img width="35" height="35" alt="goal2" src="https://github.com/user-attachments/assets/455b7f41-4516-4b09-87c1-b6e669ea780b" /> My Goals for 2026
-  
-- [x] Git & GitHub for professional development
-- [x] Linux basics for development and security
-- [x] Data Structures & Algorithms through LeetCode
-- [x] SQL for databases
-- [ ] REST APIs for application communication
-- [ ] Spring Boot for backend development
-- [ ] UI & UX for designing user-friendly applications
-- [ ] AWS Fundamentals for cloud computing
-- [ ] NumPy & Pandas for AI and data processing
-- [ ] Machine Learning & LLMs for building intelligent applications
-
-*This is just a glimpse of the list of things I want to learn, practice and build.*
-
----
-
-<br/>
-
 ## <img width="25" height="25" alt="18513826" src="https://github.com/user-attachments/assets/dd539859-f131-42dd-94fa-2f1082b64163" /> Stats
 
 <div align="center">
