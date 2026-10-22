@@ -81,6 +81,8 @@ View my portfolio:
 [<img src="https://skillicons.dev/icons?i=github&theme=dark" width="33" height="33" title="GitHub"/>](https://github.com/)&nbsp;&nbsp;
 [<img src="https://skillicons.dev/icons?i=git&theme=dark" width="33" height="33" title="Git"/>](https://git-scm.com/)&nbsp;&nbsp;
 [<img src="https://skillicons.dev/icons?i=linux&theme=dark" width="33" height="33" title="Linux"/>](https://www.linux.org/)&nbsp;&nbsp;
+[<img src="https://skillicons.dev/icons?i=postman&theme=dark" width="33" height="33" title="Postman"/>](https://www.postman.com/)&nbsp;&nbsp;
+[<img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="33" height="33" title="Vercel"/>](https://vercel.com/)&nbsp;&nbsp;
 
 </div>
 
