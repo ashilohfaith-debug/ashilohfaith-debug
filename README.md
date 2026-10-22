@@ -58,6 +58,13 @@ View my portfolio:
 
 <div align="center">
 
+**Languages**
+
+[<img src="https://skillicons.dev/icons?i=java&theme=dark" width="33" height="33" title="Java"/>](https://www.java.com/)&nbsp;&nbsp;
+[<img src="https://skillicons.dev/icons?i=c&theme=dark" width="33" height="33" title="C"/>](https://www.c-language.org/community)&nbsp;&nbsp;
+[<img src="https://skillicons.dev/icons?i=python&theme=dark" width="33" height="33" title="Python"/>](https://www.python.org/)&nbsp;&nbsp;
+[<img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="33" height="33" title="C++"/>](https://isocpp.org/)&nbsp;&nbsp;
+
 **Frontend**
 
 [<img src="https://skillicons.dev/icons?i=html&theme=dark" width="33" height="33" title="HTML"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)&nbsp;&nbsp;
@@ -68,12 +75,7 @@ View my portfolio:
 
 [<img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="33" height="33" title="SQLite"/>](https://www.sqlite.org/)&nbsp;&nbsp;
 
-**Languages**
-
-[<img src="https://skillicons.dev/icons?i=java&theme=dark" width="33" height="33" title="Java"/>](https://www.java.com/)&nbsp;&nbsp;
-[<img src="https://skillicons.dev/icons?i=c&theme=dark" width="33" height="33" title="C"/>](https://www.c-language.org/community)&nbsp;&nbsp;
-[<img src="https://skillicons.dev/icons?i=python&theme=dark" width="33" height="33" title="Python"/>](https://www.python.org/)&nbsp;&nbsp;
-[<img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="33" height="33" title="C++"/>](https://isocpp.org/)&nbsp;&nbsp;
+**AI/ML and Deep Learning**
 
 **Tools**
 
