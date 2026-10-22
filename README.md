@@ -83,6 +83,7 @@ View my portfolio:
 [<img src="https://skillicons.dev/icons?i=linux&theme=dark" width="33" height="33" title="Linux"/>](https://www.linux.org/)&nbsp;&nbsp;
 [<img src="https://skillicons.dev/icons?i=postman&theme=dark" width="33" height="33" title="Postman"/>](https://www.postman.com/)&nbsp;&nbsp;
 [<img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="33" height="33" title="Vercel"/>](https://vercel.com/)&nbsp;&nbsp;
+<a href="https://colab.research.google.com/"><img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="33" height="33" title="Google Colab"/></a>
 
 </div>
 
