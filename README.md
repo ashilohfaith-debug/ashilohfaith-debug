@@ -40,7 +40,7 @@ Know more about it [here](https://cloudsoftsol.com/blog/quantum-ai-explained-the
 
 Let's connect:
 
-<a href="mailto:ashilohfaith@gmail.com"><img src="https://img.shields.io/badge/ashilohfaith@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" height="34" alt="Email Address"/></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ashilohfaith@gmail.com"><img src="https://img.shields.io/badge/ashilohfaith@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" height="28" alt="Email Address"/></a>
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiloh-faith-9a2604393/)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-ffcc00?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/ShilohFaith)
 
