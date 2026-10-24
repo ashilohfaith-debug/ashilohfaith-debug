@@ -77,6 +77,8 @@ View my portfolio:
 
 **AI/ML and Deep Learning**
 
+<br/>
+
 **Tools**
 
 [<img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="33" height="33" title="VS Code"/>](https://code.visualstudio.com/)&nbsp;&nbsp;
