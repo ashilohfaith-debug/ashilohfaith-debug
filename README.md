@@ -38,7 +38,9 @@ Know more about it [here](https://cloudsoftsol.com/blog/quantum-ai-explained-the
 
 <br/>
 
-Let's connect:
+If your world revolves around technology and science, we're already on the same wavelength. I can also build your next idea. 
+
+So why wait? Let's connect!
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ashilohfaith@gmail.com&su=Hello%20from%20GitHub" target="_blank"><img src="https://img.shields.io/badge/ashilohfaith@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" width="220" alt="Email Address"/></a>
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiloh-faith-9a2604393/)
