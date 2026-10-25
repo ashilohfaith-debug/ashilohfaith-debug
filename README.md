@@ -27,7 +27,7 @@ I'm currently learning software development, understanding how systems work—an
 
 <br/>
 
-I also enjoy [participating in Hackathons](https://github.com/ashilohfaith-debug/hackathons-ive-attended) and building scalable solutions!
+I also enjoy [participating in Hackathons](https://github.com/ashilohfaith-debug/hackathons-ive-attended) and [reading research and scientific papers](https://github.com/ashilohfaith-debug/research-papers-i-read)!
 
 <br/>
 
@@ -44,13 +44,10 @@ So why wait? Let's connect!
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ashilohfaith@gmail.com&su=Hello%20from%20GitHub" target="_blank"><img src="https://img.shields.io/badge/ashilohfaith@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" width="220" alt="Email Address"/></a>
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiloh-faith-9a2604393/)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-ffcc00?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/ShilohFaith)
-
-View my portfolio:
-
 <a href="https://ashilohfaith-debug.github.io/portfolio/">
     <img src="https://img.shields.io/badge/-%20PORTFOLIO-120820?style=for-the-badge&logo=github&logoColor=c2185b&labelColor=7b4fa6" />
 </a>
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-ffcc00?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/ShilohFaith)
 
 </div>
 
