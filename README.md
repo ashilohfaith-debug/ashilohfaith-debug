@@ -47,7 +47,6 @@ So why wait? Let's connect!
 <a href="https://ashilohfaith-debug.github.io/portfolio/">
     <img src="https://img.shields.io/badge/-%20PORTFOLIO-120820?style=for-the-badge&logo=github&logoColor=c2185b&labelColor=7b4fa6" />
 </a>
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-ffcc00?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/ShilohFaith)
 
 </div>
 
