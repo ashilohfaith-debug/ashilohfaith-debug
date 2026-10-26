@@ -75,6 +75,10 @@ So why wait? Let's connect!
 
 **AI/ML and Deep Learning**
 
+[<img src="https://cdn.simpleicons.org/numpy/4DABCF" width="33" height="33" title="NumPy"/>](https://numpy.org/)&nbsp;&nbsp;
+[<img src="https://cdn.simpleicons.org/pandas/E70488" width="33" height="33" title="Pandas"/>](https://pandas.pydata.org/)&nbsp;&nbsp;
+[<img src="https://cdn.simpleicons.org/keras/D00000" width="33" height="33" title="Keras"/>](https://keras.io/)&nbsp;&nbsp;
+
 <br/>
 
 **Tools**
