@@ -145,3 +145,7 @@ So why wait? Let's connect!
 ---
 
 <br/>
+
+<a href="https://www.ibm.com/quantum/qiskit" >
+  <img src="https://raw.githubusercontent.com/AkashGutha/Qiskit-Snippets/master/assets/qiskit.gif" height="100" />
+</a>
