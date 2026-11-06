@@ -145,7 +145,3 @@ So why wait? Let's connect!
 ---
 
 <br/>
-
-<div align="center">
-<img src="https://hits.sh/github.com/ashilohfaith-debug.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=120820&labelColor=7b4fa6" alt="Profile views"/>
-</div>
