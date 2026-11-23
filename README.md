@@ -44,7 +44,8 @@ So why wait? Let's connect!
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ashilohfaith@gmail.com&su=Hello%20from%20GitHub" target="_blank"><img src="https://img.shields.io/badge/ashilohfaith@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" width="220" alt="Email Address"/></a>
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiloh-faith-9a2604393/)
-<a href="https://ashilohfaith-debug.github.io/portfolio/">
+
+You can view my website here: <a href="https://ashilohfaith-debug.github.io/portfolio/">
     <img src="https://img.shields.io/badge/-%20PORTFOLIO-120820?style=for-the-badge&logo=github&logoColor=c2185b&labelColor=7b4fa6" />
 </a>
 
