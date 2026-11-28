@@ -125,16 +125,6 @@ You can view my website here: <a href="https://ashilohfaith-debug.github.io/port
 
 <br/>
 
-## <img width="30" height="30" alt="16765917" src="https://github.com/user-attachments/assets/6903668c-8713-4898-845f-c95b917385b8" /> Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ashilohfaith-debug/ashilohfaith-debug/main/activity-graph.svg" />
-
-</div>
-
-<br/>
-
 ## Contribution Squares
 
 <div align="center">
