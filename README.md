@@ -61,9 +61,7 @@ You can view my website [here](https://ashilohfaith-debug.github.io/portfolio/).
 [<img src="https://skillicons.dev/icons?i=c&theme=dark" width="33" height="33" title="C"/>](https://www.c-language.org/community)&nbsp;&nbsp;
 [<img src="https://skillicons.dev/icons?i=python&theme=dark" width="33" height="33" title="Python"/>](https://www.python.org/)&nbsp;&nbsp;
 [<img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="33" height="33" title="C++"/>](https://isocpp.org/)&nbsp;&nbsp;
-<a href="https://www.ibm.com/quantum/qiskit" >
-  <img src="https://raw.githubusercontent.com/AkashGutha/Qiskit-Snippets/master/assets/qiskit.gif" height="35" />
-</a>
+[<img src="https://raw.githubusercontent.com/AkashGutha/Qiskit-Snippets/master/assets/qiskit.gif" height="33" title="Qiskit" alt="Qiskit"/>](https://www.ibm.com/quantum/qiskit "Qiskit")
 
 **Frontend**
 
